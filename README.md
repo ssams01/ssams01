@@ -10,6 +10,6 @@ STEPHEN SAMS
 
 📚 Computer Information Systems Major at Clemson University (Graduating Spring 23')
 
-💻 Programming Languages Known: C, C++, Java, Python, SQL, and familiar with HTML/CSS
+💻 Programming Languages Known: C, C++, Java, Python, SQL, and familiar with HTML/CSS (and I have done work with RESTful APIs)
 
 🏀 Favorite Sport is Basketball (Go Bulls!)
